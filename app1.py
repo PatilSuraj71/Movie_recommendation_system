@@ -99,4 +99,4 @@ if selected_movie_name and st.button("🎯 Recommend Movie"):
 
 
 st.divider()
-st.caption("Crated by Suraj Patil |  Movie Recommendation System")
+st.caption("Created by Suraj Patil |  Movie Recommendation System")
